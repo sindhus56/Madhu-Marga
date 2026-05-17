@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">मधु मार्ग</string>
+    <string name="hive_register">छत्ता पंजीकरण</string>
+    <string name="inspection_logs">निरीक्षण लॉग</string>
+    <string name="harvest_tracker">फसल ट्रैकर</string>
+    <string name="flora_calendar">वनस्पति कैलेंडर</string>
+    <string name="save">सहेजें</string>
+    <string name="add_log">लॉग जोड़ें</string>
+    <string name="enter_log">लॉग दर्ज करें</string>
+    <string name="hive_id">छत्ता आईडी</string>
+    <string name="location">स्थान</string>
+    <string name="crop">फसल</string>
+    <string name="quantity">मात्रा</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078446137779",
+    "project_id": "madhu-marga-64",
+    "storage_bucket": "madhu-marga-64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078446137779:android:699d870535121419b8abc6",
+        "android_client_info": {
+          "package_name": "com.example.madhumargaagriculture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACVTck2hN-e_PFlllJuNUm5TRUaxF7UgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

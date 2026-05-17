@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ಮಧು ಮಾರ್ಗ</string>
+    <string name="hive_register">ಜೇನುಗೂಡು ನೋಂದಣಿ</string>
+    <string name="inspection_logs">ತಪಾಸಣೆ ದಾಖಲೆಗಳು</string>
+    <string name="harvest_tracker">ಕೊಯ್ಲು ಟ್ರ್ಯಾಕರ್</string>
+    <string name="flora_calendar">ಸಸ್ಯವರ್ಗ ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="save">ಉಳಿಸಿ</string>
+    <string name="add_log">ದಾಖಲೆ ಸೇರಿಸಿ</string>
+    <string name="enter_log">ದಾಖಲೆಯನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="hive_id">ಜೇನುಗೂಡು ಐಡಿ</string>
+    <string name="location">ಸ್ಥಳ</string>
+    <string name="crop">ಬೆಳೆ</string>
+    <string name="quantity">ಪ್ರಮಾಣ</string>
+</resources>
